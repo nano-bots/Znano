@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   app:
-    container_name: z-mirror
+    container_name: z-nano
     build:
       context: .
       dockerfile: Dockerfile
